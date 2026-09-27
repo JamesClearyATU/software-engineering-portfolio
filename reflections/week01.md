@@ -21,3 +21,5 @@ This links to complexity, large systems are made up of many different parts and 
 
 https://science.nasa.gov/mission/mars-climate-orbiter/
 
+## Is There Still a Software Crisis?
+A software crisis still exists today because modern systems are larger and more complicated so even small mistakes can still cause serious problems. The Mars Climate Orbiter is a good example because different parts of the project used different measurement units, which caused incorrect navigation calculations and the loss of the spacecraft, showing that even when individual parts of a system work that problems can still happen when different teams and systems dont communicate properly. 
